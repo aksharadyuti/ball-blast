@@ -364,13 +364,11 @@
 
                                     });
                                     a *= -1;
-                                    console.log(part_.otext);
                                     drawParticles();
                                 }
 
                             }
                             else {
-                                console.log("here");
                                 var dir = [1, -1];
                                 var xd = [0, canvas.width];
                                 var s = [0, 1];
